@@ -47,16 +47,6 @@ def main():
 
 
 
-    # age = st.slider("Select your age", 0, 100, 25)
-    # st.write(f"You selected {age} years old.")
-
-    # data = pd.DataFrame({
-    #     'Name': ['Alice', 'Bob', 'Charlie'],
-    #     'Age': [25, 30, 35]
-    # })
-
-    # st.table(data)  
-
 
 
 if __name__ == "__main__":
